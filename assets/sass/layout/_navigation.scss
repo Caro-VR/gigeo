@@ -1,0 +1,82 @@
+.img-fluid {
+    max-width: 160px;
+    height: auto;
+}
+
+.nav-class {
+    height: 50px;
+}
+
+.fondo-navbar {
+    background: white;
+}
+
+.mynav__menu {
+    display: flex;
+    background: white;
+}
+
+.banner {
+    object-fit: cover;
+}
+
+.banner-img {
+    width: 100%;
+    height: 290px;
+}
+
+.col-6 {
+    padding-right: 80px;
+    padding-left: 100px;
+}
+
+.container-yuki{
+    margin-top: 2%;
+}
+
+.logos {
+    display: flex;
+    margin-left: auto;
+}
+
+.fas {
+    color: black;
+    padding: 0px 8px;
+}
+
+.profile-section {
+    box-sizing: unset;
+}
+  
+.profile-box {
+display: flex;
+
+    img {
+        width: 100px;
+        height: 100px;
+    }
+
+    div {
+        text-align: left;
+        padding-left: 40px;
+    }
+
+    p {
+        padding-left: 5px;
+        margin-bottom: 0px;
+    }
+
+    h3 {
+        margin-bottom: 0px;
+    }
+}
+
+.banner {
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: white;
+}
